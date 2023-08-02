@@ -1,0 +1,19 @@
+{
+    "deploy": [
+        "../deploy_c3.md"
+    ],
+    "docs": "",
+    "features": [
+        "BLE",
+        "WiFi"
+    ],
+    "id": "esp32c3-usb",
+    "images": [
+        ""
+    ],
+    "mcu": "esp8685h2",
+    "product": "ESP8685H2 with USB",
+    "thumbnail": "",
+    "url": "https://www.espressif.com/en/products/modules",
+    "vendor": "Espressif"
+}
